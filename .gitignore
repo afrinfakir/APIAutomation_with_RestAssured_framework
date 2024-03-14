@@ -15,3 +15,18 @@ application.log
 hs_err_pid*
 activityLog.log
 ######################
+## Maven
+######################
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+#######################
