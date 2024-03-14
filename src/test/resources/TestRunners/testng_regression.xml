@@ -5,10 +5,10 @@
 	parallel="tests" verbose="4">
 	
 	
-	 <listeners>
+	<!-- <listeners>
 		<listener
 			class-name="com.qa.gorest.listeners.ExtentReportListener" />
-	</listeners>
+	</listeners>-->
 	
 	 <test name="Amadeus Flight API Test">
 		<parameter name="baseURI" value="https://test.api.amadeus.com" />
